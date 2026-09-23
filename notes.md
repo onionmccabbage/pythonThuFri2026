@@ -16,12 +16,13 @@ https://colab.research.google.com/
 - Start Anaconda prompt
 - Choose a location (e.g. documents)
 - Type `jupyter notebook`
+
 In both cases you will see a Jupyter web page 
 - Then create a New Python Notebook
 
 Some useful websites:
 - https://www.python.org   (official Python website)
-- https://www.learnpython.org (great for tutorials)
+- https://pythoncompiler.io/python/category/data-science/ (useful tutorials)
+- https://www.learnpython.org (great for Python tutorials)
 - https://www.online-python.com/
 
-https://pythoncompiler.io/python/pandas-data-cleaning/
