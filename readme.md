@@ -32,7 +32,7 @@ Python and Data Analysis, plus Financial Data and Visualization, in preparation 
 * Cleaning and preparing data
 * Time series
 * Merging and joining data sources
-* Data Visualizing
+* Data Visualizing with Seaborn and MatPlotLib
 * Plotting and annotating charts 
 * Calculating new data columns
 * Applying financial models to data
